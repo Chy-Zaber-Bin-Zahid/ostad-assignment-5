@@ -1,0 +1,10 @@
+.content{
+  text-align: center;
+  background-color: silver;
+  padding: 1rem;
+}
+
+button{
+  margin-left: .5rem;
+  padding: .5rem;
+}
